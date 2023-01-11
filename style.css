@@ -92,6 +92,7 @@ section#img01 {
 }
 
 section#img02 {
+  color: red;
   background-image: url('/imagens/background002.jpg');
   
 }
